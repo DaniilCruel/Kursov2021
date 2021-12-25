@@ -1,0 +1,6 @@
+C:\Users\User-PC\Desktop\TCPChat-master\Data\bin\Debug\Data.dll
+C:\Users\User-PC\Desktop\TCPChat-master\Data\bin\Debug\Data.pdb
+C:\Users\User-PC\Desktop\TCPChat-master\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\User-PC\Desktop\TCPChat-master\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\User-PC\Desktop\TCPChat-master\Data\obj\Debug\Data.dll
+C:\Users\User-PC\Desktop\TCPChat-master\Data\obj\Debug\Data.pdb
